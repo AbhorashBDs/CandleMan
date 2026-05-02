@@ -1,0 +1,52 @@
+{
+    "version": 1,
+    "name": "Continue",
+    "maps": [
+        {
+            "name": "Dialogue",
+            "id": "b3a38a82-d749-4dfa-87a2-503d37c66305",
+            "actions": [
+                {
+                    "name": "ContinueDialogue",
+                    "type": "Button",
+                    "id": "c6586559-2cc4-4bd0-918e-db98ac3ac714",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c8e7876f-cf23-4a4f-aac6-cee6bf40cb2d",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ContinueDialogue",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
