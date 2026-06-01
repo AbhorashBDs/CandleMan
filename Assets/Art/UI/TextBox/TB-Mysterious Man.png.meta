@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 60e03a62242a09741bb97cb35810ae3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 854925693745125625
+    second: TB-Mysterious Man_0
+  - first:
+      213: -5556868562542876465
+    second: TB-Mysterious Man_1
+  - first:
+      213: 1397419838693066701
+    second: TB-Mysterious Man_2
+  - first:
+      213: -7539713096842759591
+    second: TB-Mysterious Man_3
+  - first:
+      213: -5068035365092266165
+    second: TB-Mysterious Man_4
+  - first:
+      213: -6366544902739169129
+    second: TB-Mysterious Man_5
+  - first:
+      213: -2673514647620835843
+    second: TB-Mysterious Man_6
+  - first:
+      213: 1303423931386129910
+    second: TB-Mysterious Man_7
+  - first:
+      213: 6633144481419409457
+    second: TB-Mysterious Man_8
+  - first:
+      213: -2283575559964363244
+    second: TB-Mysterious Man_9
+  - first:
+      213: 3035958061318989375
+    second: TB-Mysterious Man_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TB-Mysterious Man_0
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 802
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8580d836e4ddb00800000000000000
+      internalID: 854925693745125625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_1
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 782
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8a812eb7902e2b0800000000000000
+      internalID: -5556868562542876465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1544
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7426f70f1a46310800000000000000
+      internalID: 1397419838693066701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 753
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b352b2ee8d5790800000000000000
+      internalID: -7539713096842759591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fee82efa8baa9b0800000000000000
+      internalID: -5068035365092266165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_5
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 197
+        width: 114
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79078a1742d75a7a0800000000000000
+      internalID: -6366544902739169129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5a1c6c794c5ead0800000000000000
+      internalID: -2673514647620835843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd6306e821b61210800000000000000
+      internalID: 1303423931386129910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138b8de03c9ad0c50800000000000000
+      internalID: 6633144481419409457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 7
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4167f8a802c1f40e0800000000000000
+      internalID: -2283575559964363244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB-Mysterious Man_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e6e585c3e12a20800000000000000
+      internalID: 3035958061318989375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TB-Mysterious Man_0: 854925693745125625
+      TB-Mysterious Man_1: -5556868562542876465
+      TB-Mysterious Man_10: 3035958061318989375
+      TB-Mysterious Man_2: 1397419838693066701
+      TB-Mysterious Man_3: -7539713096842759591
+      TB-Mysterious Man_4: -5068035365092266165
+      TB-Mysterious Man_5: -6366544902739169129
+      TB-Mysterious Man_6: -2673514647620835843
+      TB-Mysterious Man_7: 1303423931386129910
+      TB-Mysterious Man_8: 6633144481419409457
+      TB-Mysterious Man_9: -2283575559964363244
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
